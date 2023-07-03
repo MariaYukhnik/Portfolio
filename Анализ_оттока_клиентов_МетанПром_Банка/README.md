@@ -1,7 +1,7 @@
 # Банки: анализ оттока клиентов.Портрет лояльного клиента
 [Презентация](https://practicum.yandex.ru/data-analyst/)
 
-[Дашборд](https://practicum.yandex.ru/data-analyst/)
+[Дашборд](https://public.tableau.com/app/profile/maria.yukhnik/viz/finaldashboard_16842359842770/Dashboard2)
 
 ## Цель исследования:
 Дать рекомендации отделу маркетинга по продуктам для привлечения лояльных клиентов.
