@@ -1,5 +1,5 @@
 # Банки: анализ оттока клиентов.Портрет лояльного клиента
-[Презентация](https://practicum.yandex.ru/data-analyst/)
+[Презентация](https://disk.yandex.ru/i/V1kf63unO1pDGg)
 
 [Дашборд](https://public.tableau.com/app/profile/maria.yukhnik/viz/finaldashboard_16842359842770/Dashboard2)
 
